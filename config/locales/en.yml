@@ -58,3 +58,4 @@ en:
         po_number: "PO #"
 
   thanks: "Thank you for your order"
+  empty_cart: "Your cart is currently empty"
