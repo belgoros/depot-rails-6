@@ -39,3 +39,5 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+public/javascripts/i18n.js
+public/javascripts/translations.js
